@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.counter {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}

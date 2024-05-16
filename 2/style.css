@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.thumbnail{
+    width: 150px;
+    height: 100px;
+    margin: 10px 20px;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.thumbnail:hover{
+    opacity: 1;
+}
+.mainImg{
+    width: 600px;
+    height: 400px;
+}
+#description{
+    text-align: center;
+}
